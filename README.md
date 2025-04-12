@@ -1,7 +1,6 @@
-## Olá! Eu sou a Carla Setubal 
 
 - 🌱 Programador(a) Lógica de programação | Python | Github | HTML | CSS | Javascript | Figma 
-- 😄 Pronouns: ela/dela
+
 -->
 <h2 align="left">Olá!! Eu Sou  Carla Setúbal</h2>
 
