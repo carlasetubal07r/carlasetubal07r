@@ -31,20 +31,18 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.instagram.com/carlasetubalr/?__pwa=1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=@carlasetubalr&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=carlareys16@gmail.com&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="https://www.linkedin.com/in/carla-reis-a7962b353/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=@Carlareis&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+<img src="https://raw.githubusercontent.com/carlasetubal07r/carlasetubal07r/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/carlasetubal07r/carlasetubal07r/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <a href="https://www.instagram.com/carlasetubalr/?__pwa=1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=@carlasetubalr&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=carlareys16@gmail.com&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/carla-reis-a7962b353/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=@Carlareis&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
